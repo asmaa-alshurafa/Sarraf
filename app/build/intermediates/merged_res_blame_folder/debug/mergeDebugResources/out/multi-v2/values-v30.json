@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sarraf.app-mergeDebugResources-63:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\acc\\.gradle\\caches\\8.9\\transforms\\3d9bc2e5dbda22473ec7b1696edbd341\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

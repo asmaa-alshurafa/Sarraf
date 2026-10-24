@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="active_alerts_count">%d تنبيهات نشطة</string>
+    <string name="active_volume">حجم التداول النشط</string>
+    <string name="active_watchlist_alerts">تنبيهات قائمة المراقبة النشطة</string>
+    <string name="against_currency_format">مقابل 1 %s</string>
+    <string name="ai_insight_content">لوحظ استقرار في العملات الخليجية المربوطة، بينما يختبر اليورو مستويات الدعم قبل قرار الفائدة من البنك المركزي الأوروبي.</string>
+    <string name="ai_insight_title">تحليلات صرّاف الذكية</string>
+    <string name="alert_falls_below">تنبيه عند هبوط السعر تحت %s</string>
+    <string name="alert_rises_above">تنبيه عند ارتفاع السعر فوق %s</string>
+    <string name="alert_swing">تنبيه عند تذبذب السعر بأكثر من ±1%</string>
+    <string name="alerts_haptics_section">التنبيهات والاهتزاز</string>
+    <string name="alerts_hero_desc">خوارزميات مراقبة تلقائية تعمل على مدار الساعة. إشعارات فورية عند وصول السعر إلى أهدافك المحددة.</string>
+    <string name="alerts_subtitle">منبهات الأسعار الذكية</string>
+    <string name="alerts_title">التنبيهات</string>
+    <string name="api_key_config">إعداد مفتاح API</string>
+    <string name="api_provider_title">Open Exchange Rates</string>
+    <string name="api_section_title">واجهة برمجة بيانات الصرف</string>
+    <string name="api_tier_desc">الباقة المجانية • شبكة توصيل سريعة</string>
+    <string name="app_name">صرّاف</string>
+    <string name="app_theme">مظهر التطبيق</string>
+    <string name="auto_refresh_interval">فترة التحديث التلقائي</string>
+    <string name="auto_sync">مزامنة تلقائية</string>
+    <string name="background_sync">المزامنة في الخلفية</string>
+    <string name="base_comparison_currency">عملة المقارنة الأساسية</string>
+    <string name="baseline_label">السعر المرجعي: </string>
+    <string name="btn_refresh">تحديث</string>
+    <string name="cache_stats_format">تم حفظ %d سعر • الحجم %s</string>
+    <string name="cached_rates_title">مخزن الأسعار المؤقتة</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"ردّ"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"فيديو"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"رفض"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"قطع الاتصال"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"مكالمة واردة"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"مكالمة جارية"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"يتم فحص المكالمة الواردة"</string>
+    <string name="cancel_action">إلغاء</string>
+    <string name="channel_email">البريد الإلكتروني</string>
+    <string name="channel_push">إشعارات التطبيق</string>
+    <string name="channel_sms">رسالة SMS</string>
+    <string name="clear_local_cache">مسح الذاكرة المؤقتة</string>
+    <string name="clear_log">مسح السجل</string>
+    <string name="clear_search">مسح البحث</string>
+    <string msgid="406453423630273620" name="close_drawer">"إغلاق قائمة التنقل"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"إغلاق الورقة"</string>
+    <string name="condition_falls_below">ينخفض عن</string>
+    <string name="condition_rises_above">يرتفع عن</string>
+    <string name="condition_swing">تذبذب ±1%</string>
+    <string name="convert_from_base">التحويل من (المبلغ الأساسي)</string>
+    <string name="convert_to_target">التحويل إلى (النتيجة المستهدفة)</string>
+    <string name="converter_rate_disclaimer">تُحسب الأسعار وفقاً لسعر الصرف الحقيقي بين البنوك مباشرة ودون أي هوامش ربح تجزئة.</string>
+    <string name="converter_subtitle">حاسبة الصرف الفورية</string>
+    <string name="converter_title">المحول</string>
+    <string name="copied_to_clipboard">تم النسخ إلى الحافظة!</string>
+    <string name="create_alert_title">إنشاء تنبيه سعر</string>
+    <string name="create_new_alert_sub">تحديد حد أقصى، أو حد أدنى، أو نسبة التذبذب</string>
+    <string name="create_new_price_alert">إنشاء تنبيه سعر جديد</string>
+    <string name="crossed_target_msg">تجاوز الهدف %s ووصل إلى %s</string>
+    <string name="current_label">الحالي: </string>
+    <string name="decimal_precision">الدقة العشرية</string>
+    <string name="decimal_precision_desc">المنازل العشرية (الفوركس القياسي) %d</string>
+    <string name="default_base_currency">العملة الأساسية الافتراضية</string>
+    <string msgid="8038256446254964252" name="default_error_message">"إدخال غير صالح"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"نافذة منبثقة"</string>
+    <string name="delivery_channels_label">قنوات الإشعار:</string>
+    <string name="dip_alert_triggered">تم تفعيل تنبيه الهبوط</string>
+    <string name="display_language">لغة التطبيق</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"قائمة منسدلة"</string>
+    <string name="edit_action">تعديل</string>
+    <string name="edit_paste_btn">تعديل / لصق</string>
+    <string name="engine_health_format">كفاءة المحرك %s</string>
+    <string name="fell_below_msg">انخفض عن %s إلى %s</string>
+    <string name="general_regional_section">عام وإقليمي</string>
+    <string name="haptic_feedback">الاهتزاز التفاعلي</string>
+    <string name="haptic_feedback_desc">اهتزاز تفاعلي عند النقر على لوحة المفاتيح والتحويل</string>
+    <string msgid="6827826412747255547" name="in_progress">"قيد التقدم"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"تم وضع علامة في المربّع بشكل جزئي"</string>
+    <string name="interval_15_min">كل 15 دقيقة</string>
+    <string name="interval_1_hour">كل ساعة</string>
+    <string name="interval_manual">يدوي فقط</string>
+    <string name="inverse_rate_label">السعر العكسي:</string>
+    <string name="key_watchlist_pairs">أزواج المراقبة الرئيسية</string>
+    <string name="language_settings">إعدادات اللغة</string>
+    <string name="last_sync_label">آخر مزامنة</string>
+    <string name="live_sync_active">المزامنة المباشرة نشطة</string>
+    <string name="live_updates_format">مباشر • تحديث كل %d ثوانٍ</string>
+    <string msgid="2988463736136100848" name="m3c_bottom_sheet_collapse_description">"تصغير البطاقة السفلية"</string>
+    <string msgid="1555567894577437024" name="m3c_bottom_sheet_dismiss_description">"إغلاق البطاقة السفلية"</string>
+    <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"مقبض السحب"</string>
+    <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"توسيع البطاقة السفلية"</string>
+    <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"بطاقة سفلية"</string>
+    <string msgid="8166741421776570875" name="m3c_date_input_headline">"التاريخ الذي تم إدخاله"</string>
+    <string msgid="229313757840775812" name="m3c_date_input_headline_description">"‏التاريخ الذي تم إدخاله: %1$s"</string>
+    <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"‏لا يتوافق التاريخ مع النمط المتوقَّع: %1$s"</string>
+    <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"‏التاريخ غير مسموح به: %1$s"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"‏التاريخ خارج نطاق السنوات المتوقَّع: ‎%1$s - %2$s"</string>
+    <string msgid="2895559812010326913" name="m3c_date_input_label">"التاريخ"</string>
+    <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"بدون تاريخ"</string>
+    <string msgid="7306227249789210568" name="m3c_date_input_title">"اختيار تاريخ"</string>
+    <string msgid="7605002211875882969" name="m3c_date_picker_headline">"التاريخ المحدَّد"</string>
+    <string msgid="3664277305226978227" name="m3c_date_picker_headline_description">"‏الاختيار الحالي: %1$s"</string>
+    <string msgid="8436650776581492840" name="m3c_date_picker_navigate_to_year_description">"‏الانتقال إلى سنة %1$s"</string>
+    <string msgid="5811000998184572395" name="m3c_date_picker_no_selection_description">"بدون تاريخ"</string>
+    <string msgid="7813882352367152251" name="m3c_date_picker_scroll_to_earlier_years">"انتقِل للأسفل أو للأعلى لإظهار السنوات السابقة."</string>
+    <string msgid="5727367015496556177" name="m3c_date_picker_scroll_to_later_years">"انتقِل للأسفل أو للأعلى لإظهار السنوات التالية."</string>
+    <string msgid="1804346892470238807" name="m3c_date_picker_switch_to_calendar_mode">"التبديل إلى وضع \"الإدخال في التقويم\""</string>
+    <string msgid="395627960681594326" name="m3c_date_picker_switch_to_day_selection">"مرِّر سريعًا لتحديد سنة، أو انقر للرجوع إلى تحديد يوم."</string>
+    <string msgid="2219746470065162704" name="m3c_date_picker_switch_to_input_mode">"التبديل إلى \"وضع إدخال النص\""</string>
+    <string msgid="7142101321095356500" name="m3c_date_picker_switch_to_next_month">"التغيير إلى الشهر التالي"</string>
+    <string msgid="228438865139394590" name="m3c_date_picker_switch_to_previous_month">"التغيير إلى الشهر السابق"</string>
+    <string msgid="791651718641787594" name="m3c_date_picker_switch_to_year_selection">"التبديل لاختيار سنة"</string>
+    <string msgid="7430790972741451689" name="m3c_date_picker_title">"اختيار تاريخ"</string>
+    <string msgid="3199387177749801575" name="m3c_date_picker_today_description">"اليوم"</string>
+    <string msgid="2068382232816991922" name="m3c_date_picker_year_picker_pane_title">"أداة اختيار السنوات مرئية"</string>
+    <string msgid="3190049423327661366" name="m3c_date_range_input_invalid_range_input">"إدخال نطاق زمني غير صالح"</string>
+    <string msgid="3148384720560189467" name="m3c_date_range_input_title">"إدخال التواريخ"</string>
+    <string msgid="2138321128465719402" name="m3c_date_range_picker_day_in_range">"في النطاق"</string>
+    <string msgid="4947636797751277713" name="m3c_date_range_picker_end_headline">"تاريخ الانتهاء"</string>
+    <string msgid="602077859540990149" name="m3c_date_range_picker_scroll_to_next_month">"انتقِل للأسفل أو للأعلى لإظهار الشهر التالي."</string>
+    <string msgid="4592174524846109496" name="m3c_date_range_picker_scroll_to_previous_month">"انتقِل للأسفل أو للأعلى لإظهار الشهر السابق."</string>
+    <string msgid="4665981448952749820" name="m3c_date_range_picker_start_headline">"تاريخ البدء"</string>
+    <string msgid="3134165431120340385" name="m3c_date_range_picker_title">"اختيار التواريخ"</string>
+    <string msgid="7617233117134790350" name="m3c_dialog">"مربّع حوار"</string>
+    <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"مصغَّرة"</string>
+    <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"موسَّعة"</string>
+    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"توسيع القائمة المنسدلة أو تصغيرها"</string>
+    <string msgid="6152806324422087846" name="m3c_search_bar_search">"شريط بحث"</string>
+    <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"إغلاق"</string>
+    <string msgid="7655536806087401899" name="m3c_suggestions_available">"إليك الاقتراحات"</string>
+    <string msgid="2786685010796619560" name="m3c_time_picker_am">"ص"</string>
+    <string msgid="2349193472625211372" name="m3c_time_picker_hour">"ساعة"</string>
+    <string msgid="9179527532316922345" name="m3c_time_picker_hour_24h_suffix">"‏%1$d ساعة"</string>
+    <string msgid="8876759303332837035" name="m3c_time_picker_hour_selection">"اختيار الساعة"</string>
+    <string msgid="3458167507790628988" name="m3c_time_picker_hour_suffix">"‏الساعة %1$d"</string>
+    <string msgid="6973808109666874069" name="m3c_time_picker_hour_text_field">"الساعات"</string>
+    <string msgid="4313071914266462005" name="m3c_time_picker_minute">"دقيقة"</string>
+    <string msgid="4699133535056739733" name="m3c_time_picker_minute_selection">"اختيار الدقائق"</string>
+    <string msgid="5064177921781937179" name="m3c_time_picker_minute_suffix">"‏%1$d دقيقة"</string>
+    <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"الدقائق"</string>
+    <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"يُرجى اختيار \"ص\" أو \"م\"."</string>
+    <string msgid="6616362054113087709" name="m3c_time_picker_pm">"م"</string>
+    <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"إظهار التلميح"</string>
+    <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"تلميح"</string>
+    <string name="matching_currencies">العملات المطابقة (%d)</string>
+    <string name="mid_market_default_subtitle">سعر الصرف بين البنوك</string>
+    <string name="nav_alerts">التنبيهات</string>
+    <string name="nav_converter">المحول</string>
+    <string name="nav_rates">الأسعار</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string msgid="542007171693138492" name="navigation_menu">"قائمة تنقل"</string>
+    <string name="no_currencies_found">لم يتم العثور على عملات</string>
+    <string name="no_currencies_found_desc">لا توجد نتائج مطابقة لـ \"%s\". يرجى التحقق من رمز العملة أو الاسم.</string>
+    <string msgid="6610465462668679431" name="not_selected">"غير محدّد"</string>
+    <string name="parallel_market_spread">فارق السوق الموازي</string>
+    <string name="pegged_rate">سعر صرف مربوط</string>
+    <string name="push_notifications">إشعارات الدفع</string>
+    <string name="push_notifications_desc">تنبيهات فورية عند وصول العملة للهدف المحدد</string>
+    <string name="quick_add_amount">إضافة مبالغ سريعة</string>
+    <string msgid="5941395253238309765" name="range_end">"نهاية النطاق"</string>
+    <string msgid="7097486360902471446" name="range_start">"بداية النطاق"</string>
+    <string name="rates_subtitle">أسعار الصرف المباشرة</string>
+    <string name="rates_title">الأسعار</string>
+    <string name="reached_format">تم الوصول بنسبة %d%%</string>
+    <string name="real_mid_market_rate">سعر الصرف الحقيقي بين البنوك</string>
+    <string name="real_time_feeds">تحديثات حية</string>
+    <string name="recent_conversions">التحويلات الأخيرة</string>
+    <string name="recommendation_badge">توصية</string>
+    <string name="regional_global_rates">الأسعار الإقليمية والعالمية</string>
+    <string name="remaining_format">متبقي %s (%d%%)</string>
+    <string name="save_alert">حفظ التنبيه</string>
+    <string name="search_currency_hint">ابحث عن عملة أو دولة (الرمز، الاسم)...</string>
+    <string name="select_base_currency">اختر العملة الأساسية</string>
+    <string name="select_pair_desc">اختر زوج العملات وسعر الصرف المستهدف للبدء:</string>
+    <string name="select_target_currency">اختر العملة المستهدفة</string>
+    <string msgid="6043586758067023" name="selected">"محدّد"</string>
+    <string name="set_price_alert">تعيين تنبيه لهذا السعر</string>
+    <string name="settings_header_desc">تخصيص الواجهة، واجهة برمجة أسعار الصرف، ومزامنة البيانات المحلية</string>
+    <string name="settings_title">الإعدادات والتفضيلات</string>
+    <string name="smart_price_alerts">منبهات الأسعار الذكية</string>
+    <string msgid="4139871816613051306" name="state_empty">"حقل فارغ"</string>
+    <string msgid="5834637030682409883" name="state_off">"غير مفعَّل"</string>
+    <string msgid="1490883874751719580" name="state_on">"مفعَّل"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_cache_section">التخزين والذاكرة المؤقتة</string>
+    <string name="switch_basket">تبديل السلة</string>
+    <string msgid="2561197295334830845" name="switch_role">"تبديل"</string>
+    <string msgid="1672349317127674378" name="tab">"علامة تبويب"</string>
+    <string name="target_exchange_rate_label">سعر الصرف المستهدف</string>
+    <string name="target_format">الهدف: %s</string>
+    <string name="target_price_hit">تم الوصول للسعر المستهدف</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> في المئة."</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_oled">داكن OLED</string>
+    <string name="theme_system">النظام</string>
+    <string name="today_label">اليوم</string>
+    <string name="today_suffix">اليوم</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"تلميح"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"إظهار التلميح"</string>
+    <string name="trigger_once">التنبيه: مرة واحدة فقط</string>
+    <string name="triggered_alerts_history">سجل التنبيهات المنفذة</string>
+    <string name="updated_just_now">تم التحديث منذ دقيقة</string>
+    <string name="urgent_alert_enabled">تفعيل إشعارات SMS والتطبيق العاجلة</string>
+    <string name="verified_badge">تم التحقق</string>
+    <string name="view_all_history">عرض السجل بالكامل</string>
+    <string name="volatility_high">حساسية التذبذب: عالية</string>
+    <string name="yesterday_label">أمس</string>
+    <string name="zero_commission">عمولة 0%</string>
+    <string name="zero_latency_desc">بيانات مصرفية مباشرة من الدرجة الأولى بدون أي تأخير</string>
+    <string name="zero_latency_title">تحديثات فورية دون تأخير</string>
+</resources>

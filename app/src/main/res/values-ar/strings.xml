@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صرّاف</string>
+    <string name="nav_rates">الأسعار</string>
+    <string name="nav_converter">المحول</string>
+    <string name="nav_alerts">التنبيهات</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="rates_title">الأسعار</string>
+    <string name="rates_subtitle">أسعار الصرف المباشرة</string>
+    <string name="converter_title">المحول</string>
+    <string name="converter_subtitle">حاسبة الصرف الفورية</string>
+    <string name="alerts_title">التنبيهات</string>
+    <string name="alerts_subtitle">منبهات الأسعار الذكية</string>
+    <string name="settings_title">الإعدادات والتفضيلات</string>
+    <string name="display_language">لغة التطبيق</string>
+    <string name="language_settings">إعدادات اللغة</string>
+    <string name="app_theme">مظهر التطبيق</string>
+    <string name="theme_system">النظام</string>
+    <string name="theme_oled">داكن OLED</string>
+    <string name="theme_light">فاتح</string>
+    <string name="default_base_currency">العملة الأساسية الافتراضية</string>
+    <string name="clear_local_cache">مسح الذاكرة المؤقتة</string>
+    <string name="push_notifications">إشعارات الدفع</string>
+    <string name="haptic_feedback">الاهتزاز التفاعلي</string>
+    <string name="background_sync">المزامنة في الخلفية</string>
+
+    <!-- Converter -->
+    <string name="convert_from_base">التحويل من (المبلغ الأساسي)</string>
+    <string name="convert_to_target">التحويل إلى (النتيجة المستهدفة)</string>
+    <string name="real_mid_market_rate">سعر الصرف الحقيقي بين البنوك</string>
+    <string name="zero_commission">عمولة 0%</string>
+    <string name="set_price_alert">تعيين تنبيه لهذا السعر</string>
+    <string name="recent_conversions">التحويلات الأخيرة</string>
+    <string name="view_all_history">عرض السجل بالكامل</string>
+    <string name="quick_add_amount">إضافة مبالغ سريعة</string>
+    <string name="copied_to_clipboard">تم النسخ إلى الحافظة!</string>
+    <string name="converter_rate_disclaimer">تُحسب الأسعار وفقاً لسعر الصرف الحقيقي بين البنوك مباشرة ودون أي هوامش ربح تجزئة.</string>
+    <string name="select_base_currency">اختر العملة الأساسية</string>
+    <string name="select_target_currency">اختر العملة المستهدفة</string>
+    <string name="inverse_rate_label">السعر العكسي:</string>
+    <string name="updated_just_now">تم التحديث منذ دقيقة</string>
+    <string name="today_suffix">اليوم</string>
+
+    <!-- Rates Screen Specifics -->
+    <string name="auto_sync">مزامنة تلقائية</string>
+    <string name="live_updates_format">مباشر • تحديث كل %d ثوانٍ</string>
+    <string name="base_comparison_currency">عملة المقارنة الأساسية</string>
+    <string name="switch_basket">تبديل السلة</string>
+    <string name="key_watchlist_pairs">أزواج المراقبة الرئيسية</string>
+    <string name="active_volume">حجم التداول النشط</string>
+    <string name="search_currency_hint">ابحث عن عملة أو دولة (الرمز، الاسم)...</string>
+    <string name="regional_global_rates">الأسعار الإقليمية والعالمية</string>
+    <string name="against_currency_format">مقابل 1 %s</string>
+    <string name="pegged_rate">سعر صرف مربوط</string>
+    <string name="parallel_market_spread">فارق السوق الموازي</string>
+    <string name="matching_currencies">العملات المطابقة (%d)</string>
+    <string name="ai_insight_title">تحليلات صرّاف الذكية</string>
+    <string name="recommendation_badge">توصية</string>
+    <string name="ai_insight_content">لوحظ استقرار في العملات الخليجية المربوطة، بينما يختبر اليورو مستويات الدعم قبل قرار الفائدة من البنك المركزي الأوروبي.</string>
+    <string name="no_currencies_found">لم يتم العثور على عملات</string>
+    <string name="no_currencies_found_desc">لا توجد نتائج مطابقة لـ \"%s\". يرجى التحقق من رمز العملة أو الاسم.</string>
+    <string name="clear_search">مسح البحث</string>
+    <string name="mid_market_default_subtitle">سعر الصرف بين البنوك</string>
+
+
+
+    <!-- نصوص شاشة التنبيهات -->
+    <string name="smart_price_alerts">منبهات الأسعار الذكية</string>
+    <string name="active_alerts_count">%d تنبيهات نشطة</string>
+    <string name="alerts_hero_desc">خوارزميات مراقبة تلقائية تعمل على مدار الساعة. إشعارات فورية عند وصول السعر إلى أهدافك المحددة.</string>
+    <string name="delivery_channels_label">قنوات الإشعار:</string>
+    <string name="channel_push">إشعارات التطبيق</string>
+    <string name="channel_sms">رسالة SMS</string>
+    <string name="channel_email">البريد الإلكتروني</string>
+    <string name="create_new_price_alert">إنشاء تنبيه سعر جديد</string>
+    <string name="create_new_alert_sub">تحديد حد أقصى، أو حد أدنى، أو نسبة التذبذب</string>
+    <string name="active_watchlist_alerts">تنبيهات قائمة المراقبة النشطة</string>
+    <string name="real_time_feeds">تحديثات حية</string>
+    <string name="alert_rises_above">تنبيه عند ارتفاع السعر فوق %s</string>
+    <string name="alert_falls_below">تنبيه عند هبوط السعر تحت %s</string>
+    <string name="alert_swing">تنبيه عند تذبذب السعر بأكثر من ±1%</string>
+    <string name="current_label">الحالي: </string>
+    <string name="remaining_format">متبقي %s (%d%%)</string>
+    <string name="reached_format">تم الوصول بنسبة %d%%</string>
+    <string name="target_format">الهدف: %s</string>
+    <string name="baseline_label">السعر المرجعي: </string>
+    <string name="volatility_high">حساسية التذبذب: عالية</string>
+    <string name="urgent_alert_enabled">تفعيل إشعارات SMS والتطبيق العاجلة</string>
+    <string name="trigger_once">التنبيه: مرة واحدة فقط</string>
+    <string name="edit_action">تعديل</string>
+    <string name="triggered_alerts_history">سجل التنبيهات المنفذة</string>
+    <string name="clear_log">مسح السجل</string>
+    <string name="zero_latency_title">تحديثات فورية دون تأخير</string>
+    <string name="zero_latency_desc">بيانات مصرفية مباشرة من الدرجة الأولى بدون أي تأخير</string>
+    <string name="create_alert_title">إنشاء تنبيه سعر</string>
+    <string name="select_pair_desc">اختر زوج العملات وسعر الصرف المستهدف للبدء:</string>
+    <string name="target_exchange_rate_label">سعر الصرف المستهدف</string>
+    <string name="condition_rises_above">يرتفع عن</string>
+    <string name="condition_falls_below">ينخفض عن</string>
+    <string name="condition_swing">تذبذب ±1%</string>
+    <string name="save_alert">حفظ التنبيه</string>
+    <string name="cancel_action">إلغاء</string>
+
+
+
+
+    <!-- نصوص سجل التنبيهات -->
+    <string name="target_price_hit">تم الوصول للسعر المستهدف</string>
+    <string name="dip_alert_triggered">تم تفعيل تنبيه الهبوط</string>
+    <string name="today_label">اليوم</string>
+    <string name="yesterday_label">أمس</string>
+    <string name="crossed_target_msg">تجاوز الهدف %s ووصل إلى %s</string>
+    <string name="fell_below_msg">انخفض عن %s إلى %s</string>
+
+
+
+    <!-- نصوص الإعدادات المتبقية -->
+    <string name="settings_header_desc">تخصيص الواجهة، واجهة برمجة أسعار الصرف، ومزامنة البيانات المحلية</string>
+    <string name="btn_refresh">تحديث</string>
+    <string name="live_sync_active">المزامنة المباشرة نشطة</string>
+    <string name="engine_health_format">كفاءة المحرك %s</string>
+    <string name="general_regional_section">عام وإقليمي</string>
+    <string name="decimal_precision">الدقة العشرية</string>
+    <string name="decimal_precision_desc">المنازل العشرية (الفوركس القياسي) %d</string>
+    <string name="api_section_title">واجهة برمجة بيانات الصرف</string>
+    <string name="api_provider_title">Open Exchange Rates</string>
+    <string name="api_tier_desc">الباقة المجانية • شبكة توصيل سريعة</string>
+    <string name="api_key_config">إعداد مفتاح API</string>
+    <string name="verified_badge">تم التحقق</string>
+    <string name="edit_paste_btn">تعديل / لصق</string>
+    <string name="auto_refresh_interval">فترة التحديث التلقائي</string>
+    <string name="interval_manual">يدوي فقط</string>
+    <string name="interval_1_hour">كل ساعة</string>
+    <string name="interval_15_min">كل 15 دقيقة</string>
+    <string name="storage_cache_section">التخزين والذاكرة المؤقتة</string>
+    <string name="cached_rates_title">مخزن الأسعار المؤقتة</string>
+    <string name="last_sync_label">آخر مزامنة</string>
+    <string name="cache_stats_format">تم حفظ %d سعر • الحجم %s</string>
+    <string name="alerts_haptics_section">التنبيهات والاهتزاز</string>
+    <string name="push_notifications_desc">تنبيهات فورية عند وصول العملة للهدف المحدد</string>
+    <string name="haptic_feedback_desc">اهتزاز تفاعلي عند النقر على لوحة المفاتيح والتحويل</string>
+
+
+</resources>
